@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.WalletView" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/lila</item>
+        <item name="colorOnPrimary">@color/texto</item>
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:statusBarColor">@color/fondo</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

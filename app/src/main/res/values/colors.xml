@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#FAF5FF</color>
+    <color name="lila">#CDB4DB</color>
+    <color name="lila_oscuro">#7B5E9B</color>
+    <color name="rosa">#FFC8DD</color>
+    <color name="texto">#4A3F5C</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
